@@ -24,7 +24,7 @@
 * add Scala and Idris libraries to [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography/issues?q=author%3Alemastero)
 * [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources/issues?q=author%3Alemastero), 
 * [siddhartha-gadgil/ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround/pulls?q=author%3Alemastero)
-* [andrejbauer/homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course/pull/3), [groupoid/groupoid.space](https://github.com/groupoid/groupoid.space/pulls?q=author%3Alemastero), [cohomolo-gy/Isomorphic-Reasoning](https://github.com/cohomolo-gy/Isomorphic-Reasoning/pulls?q=author%3Alemastero)
+* [HoTT/book](https://github.com/HoTT/book/pulls?q=author%3Alemastero), [andrejbauer/homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course/pull/3), [groupoid/groupoid.space](https://github.com/groupoid/groupoid.space/pulls?q=author%3Alemastero), [cohomolo-gy/Isomorphic-Reasoning](https://github.com/cohomolo-gy/Isomorphic-Reasoning/pulls?q=author%3Alemastero)
 
 #### Haskell, Idris, Coq, Agda
 * [Haskell wiki](https://wiki.haskell.org/Special:Contributions/Lemastero)
