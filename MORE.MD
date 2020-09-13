@@ -16,9 +16,13 @@
 * Add support for some collections, tests [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero)
 * Migrate tests from spec2 to zio-test [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero)
 * Add scalafix [zio/zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero)
+* Update SBT runner [zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
 * My [collection of links about approaches to concurrency/parallelism](https://github.com/lemastero/concurrency_parallelism_effects)
 * [zio](https://github.com/zio/zio/issues?q=author%3Alemastero), [monix/streaming-benchmarks](https://github.com/monix/streaming-benchmarks/pulls?q=author%3Alemastero), [tenable/Kastle](https://github.com/tenable/Kastle), [sbt/website](https://github.com/sbt/website/pulls?q=author%3Alemastero), [passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes/pulls?q=author%3Alemastero), [jaspervz/todo-http4s-doobie](https://github.com/jaspervz/todo-http4s-doobie/pulls?q=author%3Alemastero)
 * experiments with type level programming [lemastero/scala-types-madness](https://github.com/lemastero/scala-types-madness)
+
+#### Cryptography / Blockchain
+* [input-output-hk/scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero)
 
 #### Theoretical coputer science: type theory, dependent types, HoTT
 * My [collection of resources around Computational Trinitarianism](https://github.com/lemastero/scala_typeclassopedia/blob/master/ComputationalTrinitarianism.MD)
