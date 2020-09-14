@@ -1,18 +1,9 @@
 ### My open source contributions are related to my interests:
 
-#### (Applied) Category Theory
-* [lemastero/Triglav](https://github.com/lemastero/Triglav) R&D work around monoidal categories, trifunctors, profunctor optics in Scala
-* I maintain [scala_typeclassopedia](https://github.com/lemastero/scala_typeclassopedia) - wiki about abstractions from category theory in Scala
-* contribted abstractions: day convolution, density and (translated from Haskell papers) strong profunctor laws to [Scalaz](https://github.com/scalaz/scalaz/issues?q=author%3Alemastero)
-* add strong profunctor laws [Cats](https://github.com/typelevel/cats/pulls?q=author%3Alemastero)
-* [lemastero/svarog](https://github.com/lemastero/svarog) encoding of first few chapters of 7Sketches of composability
-* I help organizing [ACT Reading Club](https://github.com/lemastero/applied-category-theory-reading-club/wiki)
-* [statebox/awesome-applied-ct](https://github.com/statebox/awesome-applied-ct/pulls?q=author%3Alemastero), [nlab](https://ncatlab.org/nlab/author/lemastero)
-
 #### FP programming in Scala (big data, distributed systems, concurrency & parallelism)
 * gitter8 template for zio application in Dotty [ScalaConsultants/zio-dotty-quickstart.g8](https://github.com/ScalaConsultants/zio-dotty-quickstart.g8)
 * Add SBT plugins for static code analysis to [ScalaConsultants/zio-akka-quickstart.g8](https://github.com/ScalaConsultants/zio-akka-quickstart.g8)
-* Add unary operaors and tests [zio/zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero)
+* Add unary operaors, tests, improve nullable handling [zio/zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero)
 * Add support for some collections, tests [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero)
 * Migrate tests from spec2 to zio-test [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero)
 * Add scalafix [zio/zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero)
@@ -23,6 +14,15 @@
 
 #### Cryptography / Blockchain
 * [input-output-hk/scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero)
+
+#### (Applied) Category Theory
+* [lemastero/Triglav](https://github.com/lemastero/Triglav) R&D work around monoidal categories, trifunctors, profunctor optics in Scala
+* I maintain [scala_typeclassopedia](https://github.com/lemastero/scala_typeclassopedia) - wiki about abstractions from category theory in Scala
+* contribted abstractions: day convolution, density and (translated from Haskell papers) strong profunctor laws to [Scalaz](https://github.com/scalaz/scalaz/issues?q=author%3Alemastero)
+* add strong profunctor laws [Cats](https://github.com/typelevel/cats/pulls?q=author%3Alemastero)
+* [lemastero/svarog](https://github.com/lemastero/svarog) encoding of first few chapters of 7Sketches of composability
+* I help organizing [ACT Reading Club](https://github.com/lemastero/applied-category-theory-reading-club/wiki)
+* [statebox/awesome-applied-ct](https://github.com/statebox/awesome-applied-ct/pulls?q=author%3Alemastero), [nlab](https://ncatlab.org/nlab/author/lemastero)
 
 #### Theoretical coputer science: type theory, dependent types, HoTT
 * My [collection of resources around Computational Trinitarianism](https://github.com/lemastero/scala_typeclassopedia/blob/master/ComputationalTrinitarianism.MD)
