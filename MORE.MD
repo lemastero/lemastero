@@ -5,6 +5,7 @@
 * Add SBT plugins for static code analysis to [ScalaConsultants/zio-akka-quickstart.g8](https://github.com/ScalaConsultants/zio-akka-quickstart.g8)
 * Add unary operaors, tests, improve nullable handling [zio/zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero)
 * Add support for some collections, tests [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero)
+* [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=is%3Apr+author%3Alemastero)
 * Migrate tests from spec2 to zio-test [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero)
 * Add scalafix [zio/zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero)
 * Update SBT runner [zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
