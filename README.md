@@ -5,7 +5,7 @@ My open source contributions ([more details](https://github.com/lemastero/lemast
 * FP libraries in ZIO ecosystem:
   * [zio](https://github.com/zio/zio/pulls?q=author%3Alemastero),
   * [ScalaConsultants/zio-dotty-quickstart.g8](https://github.com/ScalaConsultants/zio-dotty-quickstart.g8), [ScalaConsultants/zio-akka-quickstart.g8](https://github.com/ScalaConsultants/zio-akka-quickstart.g8),
-  * [zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero), [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero), [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero), [zio/zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero), [zio/zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero), [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero)
+  * [zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero), [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero), [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero), [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero), [zio/zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero), [zio/zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
 * Haskell [trifunctors](https://github.com/lemastero/trifunctors)
 
 
