@@ -1,4 +1,4 @@
-### Please consider helping Ukraine :ukraine:, which has been attacked on Putin's orders. [DOs and DONTs](https://www.reddit.com/r/ukraine/comments/t0b5o8/attention_dos_and_donts/), [a list of charities by subject](https://www.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/) or find one close to you.
+### Please consider helping Ukraine :ukraine: [DOs and DONTs](https://www.reddit.com/r/ukraine/comments/t0b5o8/attention_dos_and_donts/), [charities by subject](https://www.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/) or find one close to you.
 
 My open source contributions ([more details](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
 * Scala FP absractions inspired by category theory
