@@ -2,7 +2,7 @@
 
 **Open source contributions** ([more details](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
 * Blockchain technologies powered by formal methods: [scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [metronome](https://github.com/input-output-hk/metronome/pull/3)
-* Haskell [contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), [trifunctors](https://github.com/lemastero/trifunctors), [emilypi/smash](https://github.com/emilypi/smash/pulls?q=author%3Alemastero), [profunctors](https://github.com/ekmett/profunctors/pulls?q=author%3Alemastero)
+* Haskell [contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), [trifunctors](https://github.com/lemastero/trifunctors)
 * Idris [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
 * Racket/Scheme: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero)
 * Agda [lemastero/hott-wiki](https://github.com/lemastero/hott-wiki), [lemastero/agda-smash](https://github.com/lemastero/agda-smash)
