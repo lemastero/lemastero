@@ -6,7 +6,6 @@
 * Idris [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
 * Racket/Scheme: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero)
 * Agda [lemastero/hott-wiki](https://github.com/lemastero/hott-wiki), [lemastero/agda-smash](https://github.com/lemastero/agda-smash)
-* Proof assistants and Formal methods: [awesome-provable](https://github.com/awesomo4000/awesome-provable/pulls?q=author%3Alemastero), [me learning software foundations in Coq](https://github.com/lemastero/software_foundations_coq)
 * PLT: [my collection of resources around Computational Trinitarianism](https://github.com/lemastero/scala_typeclassopedia/blob/master/ComputationalTrinitarianism.MD), [https://steshaw.org/plt/](https://github.com/steshaw/plt/pulls?q=author%3Alemastero), [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography/issues?q=author%3Alemastero)
 * (Homotopy) Type Theory: [HoTT Wiki in Agda](https://github.com/lemastero/hott-wiki), [HoTT/book](https://github.com/HoTT/book/pulls?q=author%3Alemastero), [homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course/pull/3), [groupoid.space](https://github.com/groupoid/groupoid.space/pulls?q=author%3Alemastero), [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround/pulls?q=author%3Alemastero)
 * Scala FP abstractions inspired by category theory
