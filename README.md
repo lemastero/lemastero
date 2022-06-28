@@ -7,7 +7,7 @@
 * Racket/Scheme: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero)
 * Agda [lemastero/hott-wiki](https://github.com/lemastero/hott-wiki), [lemastero/agda-smash](https://github.com/lemastero/agda-smash)
 * PLT: [my collection of resources around Computational Trinitarianism](https://github.com/lemastero/scala_typeclassopedia/blob/master/ComputationalTrinitarianism.MD), [https://steshaw.org/plt/](https://github.com/steshaw/plt/pulls?q=author%3Alemastero), [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography/issues?q=author%3Alemastero)
-* (Homotopy) Type Theory: [HoTT Wiki in Agda](https://github.com/lemastero/hott-wiki), [HoTT/book](https://github.com/HoTT/book/pulls?q=author%3Alemastero), [homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course/pull/3), [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround/pulls?q=author%3Alemastero)
+* (Homotopy) Type Theory: [HoTT Wiki in Agda](https://github.com/lemastero/hott-wiki), [homotopy-type-theory-course](https://github.com/andrejbauer/homotopy-type-theory-course/pull/3), [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround/pulls?q=author%3Alemastero)
 * Scala FP abstractions inspired by category theory
   * [Scalaz](https://github.com/scalaz/scalaz/pulls?q=author%3Alemastero): [day convolution](https://github.com/scalaz/scalaz/pull/2020), [density commonad](https://github.com/scalaz/scalaz/pull/2029), [laws for strong profunctor](https://github.com/scalaz/scalaz/pull/2028)
   * [cats](https://github.com/typelevel/cats/pulls?q=author%3Alemastero): [laws for strong profunctor](https://github.com/typelevel/cats/pull/2640)
