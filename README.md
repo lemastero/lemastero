@@ -2,12 +2,19 @@
 
 ### Please consider helping Ukraine :ukraine: [DOs and DONTs](https://www.reddit.com/r/ukraine/comments/t0b5o8/attention_dos_and_donts/), [charities by subject](https://www.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/) or find one close to you.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemastero&theme=dark&layout=compact&langs_count=8" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemastero&count_private=true&show_icons=true&theme=dark" />
-</a>
+<table style="border: none;">
+  <tr><td style="border: none;">
+  
+  <td style="border: none;">  
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemastero&theme=dark&layout=compact&langs_count=8&hide_title=true" />
+  </td>
+  
+  <td style="border: none;">
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lemastero&count_private=true&show_icons=true&theme=dark&hide_title=true" />
+  </td>
+  
+  </tr>
+</table>
 
 **Open source contributions** ([more details](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
 * Blockchain technologies powered by formal methods: [scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [metronome](https://github.com/input-output-hk/metronome/pull/3)
