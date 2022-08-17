@@ -1,5 +1,10 @@
 ### Be the positive change you want to see in life :heart:
 
+### Please consider helping Ukraine :ukraine: [DOs and DONTs](https://www.reddit.com/r/ukraine/comments/t0b5o8/attention_dos_and_donts/), [charities by subject](https://www.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/) or find one close to you.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemastero&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemastero&theme=dark&layout=compact&langs_count=8)
+
 **Open source contributions** ([more details](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
 * Blockchain technologies powered by formal methods: [scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [metronome](https://github.com/input-output-hk/metronome/pull/3)
 * Haskell [contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), [trifunctors](https://github.com/lemastero/trifunctors)
@@ -28,5 +33,3 @@
 **Study gruops**:  
 * 2022 - HoTT/UF in Agda - based on [](), my notes [lemastero/hott-wiki](https://github.com/lemastero/hott-wiki)
 * 2020-2021 - Aplied Category Theory - based on 7Sketches and Haskell functional pearls, [schedule](https://github.com/lemastero/applied-category-theory-reading-club/wiki), [attempts to encode in Idris](https://github.com/lemastero/Idris-Applied-Category-Theory)
-
-### Please consider helping Ukraine :ukraine: [DOs and DONTs](https://www.reddit.com/r/ukraine/comments/t0b5o8/attention_dos_and_donts/), [charities by subject](https://www.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/) or find one close to you.
