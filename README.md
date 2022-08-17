@@ -2,8 +2,12 @@
 
 ### Please consider helping Ukraine :ukraine: [DOs and DONTs](https://www.reddit.com/r/ukraine/comments/t0b5o8/attention_dos_and_donts/), [charities by subject](https://www.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/) or find one close to you.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lemastero&count_private=true&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemastero&theme=dark&layout=compact&langs_count=8)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemastero&theme=dark&layout=compact&langs_count=8" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemastero&count_private=true&show_icons=true&theme=dark" />
+</a>
 
 **Open source contributions** ([more details](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
 * Blockchain technologies powered by formal methods: [scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [metronome](https://github.com/input-output-hk/metronome/pull/3)
