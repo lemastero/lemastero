@@ -42,5 +42,5 @@
 * Contravariant functors in scala, 2020, [slides](https://www.slideshare.net/PiotrParadziski/contravariant-functors-in-scala), [exercises](https://github.com/lemastero/contravariant_profunctor_exercises)
 
 **Study gruops**:  
-* 2022 - HoTT/UF in Agda - based on [](), my notes [lemastero/hott-wiki](https://github.com/lemastero/hott-wiki)
+* 2022 - HoTT/UF in Agda - based on [Introduction to Univalent Foundations of Mathematics with Agda - Martín Escardó](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/), my notes [lemastero/hott-wiki](https://github.com/lemastero/hott-wiki)
 * 2020-2021 - Aplied Category Theory - based on 7Sketches and Haskell functional pearls, [schedule](https://github.com/lemastero/applied-category-theory-reading-club/wiki), [attempts to encode in Idris](https://github.com/lemastero/Idris-Applied-Category-Theory)
