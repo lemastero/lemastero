@@ -6,11 +6,11 @@
   <tr style="border: none;">
   
   <td style="border: none;">  
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemastero&theme=dark&layout=compact&langs_count=8&hide_title=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemastero&theme=dark&layout=compact&langs_count=10&hide_title=true&hide=CSS,JavaScript,Makefile,shell,HTML" />
   </td>
   
   <td style="border: none;">
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lemastero&count_private=true&show_icons=true&theme=dark&hide_title=true" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lemastero&count_private=true&show_icons=true&theme=dark&hide_title=true&disable_animations" />
   </td>
   
   </tr>
