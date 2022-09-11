@@ -18,10 +18,11 @@
 
 **Open source contributions** ([more details](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
 * Blockchain technologies powered by formal methods: [scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [metronome](https://github.com/input-output-hk/metronome/pull/3)
+* Agda [lemastero/hott-wiki](https://github.com/lemastero/hott-wiki), [lemastero/agda-smash](https://github.com/lemastero/agda-smash)
 * Haskell [contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), [trifunctors](https://github.com/lemastero/trifunctors)
 * Idris [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
+* Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
 * Racket/Scheme: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero)
-* Agda [lemastero/hott-wiki](https://github.com/lemastero/hott-wiki), [lemastero/agda-smash](https://github.com/lemastero/agda-smash)
 * PLT: [my collection of resources around Computational Trinitarianism](https://github.com/lemastero/scala_typeclassopedia/blob/master/ComputationalTrinitarianism.MD), [https://steshaw.org/plt/](https://github.com/steshaw/plt/pulls?q=author%3Alemastero), [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography/issues?q=author%3Alemastero)
 * (Homotopy) Type Theory: [HoTT Wiki in Agda](https://github.com/lemastero/hott-wiki), [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround/pulls?q=author%3Alemastero)
 * Scala FP abstractions inspired by category theory
