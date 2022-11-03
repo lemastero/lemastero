@@ -6,7 +6,7 @@
   <tr style="border: none;">
   
   <td style="border: none;">  
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemastero&theme=dark&layout=compact&langs_count=10&hide_title=true&hide=CSS,JavaScript,Makefile,shell,HTML" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemastero&theme=dark&layout=compact&langs_count=10&hide_title=true&hide=CSS,JavaScript,Makefile,shell,HTML,Dhall" />
   </td>
   
   <td style="border: none;">
