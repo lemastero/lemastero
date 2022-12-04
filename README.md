@@ -1,6 +1,5 @@
 ### Be the positive change you want to see in life :heart:
 
-### Please consider helping Ukraine :ukraine: [DOs and DONTs](https://www.reddit.com/r/ukraine/comments/t0b5o8/attention_dos_and_donts/), [charities by subject](https://www.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/) or find one close to you.
 
 <table style="border: none;">
   <tr style="border: none;">
@@ -18,7 +17,7 @@
 
 **Open source contributions** ([more details](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
 * Blockchain technologies powered by formal methods: [scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [metronome](https://github.com/input-output-hk/metronome/pull/3)
-* Agda [lemastero/hott-wiki](https://github.com/lemastero/hott-wiki), [lemastero/agda-smash](https://github.com/lemastero/agda-smash)
+* Agda [lemastero/agda-smash](https://github.com/lemastero/agda-smash)
 * Haskell [contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), [trifunctors](https://github.com/lemastero/trifunctors)
 * Idris [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
 * Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
@@ -43,5 +42,5 @@
 * Contravariant functors in scala, 2020, [slides](https://www.slideshare.net/PiotrParadziski/contravariant-functors-in-scala), [exercises](https://github.com/lemastero/contravariant_profunctor_exercises)
 
 **Study gruops**:  
-* 2022 - HoTT/UF in Agda - based on [Introduction to Univalent Foundations of Mathematics with Agda - Martín Escardó](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/), my notes [lemastero/hott-wiki](https://github.com/lemastero/hott-wiki)
+* 2022 - HoTT/UF in Agda - based on [Introduction to Univalent Foundations of Mathematics with Agda - Martín Escardó](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/), my notes [lemastero/agda-stuff](https://github.com/lemastero/agda-stuff)
 * 2020-2021 - Aplied Category Theory - based on 7Sketches and Haskell functional pearls, [schedule](https://github.com/lemastero/applied-category-theory-reading-club/wiki), [attempts to encode in Idris](https://github.com/lemastero/Idris-Applied-Category-Theory)
