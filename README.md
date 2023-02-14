@@ -7,7 +7,7 @@
 * Haskell [contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), [trifunctors](https://github.com/lemastero/trifunctors)
 * Idris [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
 * Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
-* Racket/Scheme: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero)
+* Racket/Scheme: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero), [akeep/rough-draft](https://github.com/akeep/rough-draft)
 * PLT: [my collection of resources around Computational Trinitarianism](https://github.com/lemastero/scala_typeclassopedia/blob/master/ComputationalTrinitarianism.MD), [https://steshaw.org/plt/](https://github.com/steshaw/plt/pulls?q=author%3Alemastero), [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography/issues?q=author%3Alemastero)
 * (Homotopy) Type Theory: [experiements with Agda and HoTT](https://github.com/lemastero/agda-stuff), [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround/pulls?q=author%3Alemastero)
 * Scala FP abstractions inspired by category theory
