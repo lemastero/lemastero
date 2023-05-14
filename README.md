@@ -2,7 +2,7 @@
 
 **Open source contribution & experiements** ([more details](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
 * Blockchain technologies powered by formal methods: [scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [metronome](https://github.com/input-output-hk/metronome/pull/3)
-* Agda [lemastero/agda-smash](https://github.com/lemastero/agda-smash)
+* Agda [agda-smash](https://github.com/lemastero/agda-smash), [agda-hott](https://github.com/lemastero/agda-hott), [agda-verified-fp-algorithms](https://github.com/lemastero/agda-verified-fp-algos)
 * Coq [experiements](https://github.com/lemastero/coq-stuff) mostly based on Software Foundations
 * Haskell [contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), [trifunctors](https://github.com/lemastero/trifunctors)
 * Idris [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
