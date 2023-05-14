@@ -1,5 +1,19 @@
 ### Be the positive change you want to see in life :heart:
 
+<table style="border: none;">
+  <tr style="border: none;">
+
+  <td style="border: none;">  
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemastero&theme=dark&layout=compact&langs_count=10&hide_title=true&hide=CSS,JavaScript,Makefile,shell,HTML,Dhall" />
+  </td>
+
+  <td style="border: none;">
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lemastero&count_private=true&show_icons=true&theme=dark&hide_title=true&disable_animations" />
+  </td>
+
+  </tr>
+</table>
+
 **Open source contribution & experiements** ([more details](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
 * Blockchain technologies powered by formal methods: [scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [metronome](https://github.com/input-output-hk/metronome/pull/3)
 * Agda [agda-smash](https://github.com/lemastero/agda-smash), [agda-hott](https://github.com/lemastero/agda-hott), [agda-verified-fp-algorithms](https://github.com/lemastero/agda-verified-fp-algos)
