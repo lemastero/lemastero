@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-**Open source contribution & experiements** ([more details](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
+**Open source contribution & experiements** ([nitpicking](https://github.com/lemastero/lemastero/blob/master/MORE.MD)):
 * Blockchain technologies powered by formal methods: [input-output-hk/scrypto](https://github.com/input-output-hk/scrypto/pulls?q=author%3Alemastero), [input-output-hk/mantis](https://github.com/input-output-hk/mantis/pulls?q=author%3Alemastero), [ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification/pulls?q=author%3Alemastero), [input-output-hk/metronome](https://github.com/input-output-hk/metronome/pull/3)
 * Agda:
   * [agda-smash](https://github.com/lemastero/agda-smash) formal specification for Haskell [smash](https://hackage.haskell.org/package/smash/) library in Agda
@@ -22,11 +22,8 @@
   * [agda-hott](https://github.com/lemastero/agda-hott) Experiments with HoTT, category theory and FP in Agda
     * [agda-hott/zio-prelude](https://github.com/lemastero/agda-hott/tree/main/src/FP/zio-prelude) WIP formalization of [zio-prelude](https://zio.dev/zio-prelude/) in Agda
   * [agda-verified-fp-algorithms](https://github.com/lemastero/agda-verified-fp-algos) WIP translation of [Software Foundations vol 3 : Verified Functional algorithms](https://softwarefoundations.cis.upenn.edu/) to Agda
-* Haskell [input-output-hk/contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), [trifunctors](https://github.com/lemastero/trifunctors), [agda2scala](https://github.com/lemastero/agda2scala)
-* Idris [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
-* Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
-* Racket/Scheme: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero), [akeep/rough-draft](https://github.com/akeep/rough-draft)
-* PLT: [my collection of resources around Computational Trinitarianism](https://github.com/lemastero/scala_typeclassopedia/blob/master/ComputationalTrinitarianism.MD), [https://steshaw.org/plt/](https://github.com/steshaw/plt/pulls?q=author%3Alemastero), [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography/issues?q=author%3Alemastero)
+  * [agda-stdlib](https://github.com/agda/agda-stdlib/pulls?q=is%3Apr+author%3Alemastero)
+* Haskell [input-output-hk/contra-tracer](https://github.com/input-output-hk/contra-tracer/pull/3), [trifunctors](https://github.com/lemastero/trifunctors), [agda2scala](https://github.com/lemastero/agda2scala), [Haskell wiki](https://wiki.haskell.org/Special:Contributions/Lemastero), [jespercockx/agda2scheme](https://github.com/jespercockx/agda2scheme/pulls?q=is%3Apr+author%3Alemastero)
 * Scala FP abstractions inspired by category theory
   * [Scalaz](https://github.com/scalaz/scalaz/pulls?q=author%3Alemastero): [day convolution](https://github.com/scalaz/scalaz/pull/2020), [density commonad](https://github.com/scalaz/scalaz/pull/2029), [laws for strong profunctor](https://github.com/scalaz/scalaz/pull/2028)
   * [cats](https://github.com/typelevel/cats/pulls?q=author%3Alemastero): [laws for strong profunctor](https://github.com/typelevel/cats/pull/2640)
@@ -39,6 +36,10 @@
   * [zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero), [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero), [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero), [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero), [zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero), [zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
   * Homotopy Type Theory in Agda - [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround/pulls?q=author%3Alemastero)
 * Scala type level/deriving libraries: utilities based on magnolia: [Lada](https://github.com/lemastero/Lada)
+* Idris [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
+* Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
+* Racket/Scheme: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero), [akeep/rough-draft](https://github.com/akeep/rough-draft)
+* PLT: [my collection of resources around Computational Trinitarianism](https://github.com/lemastero/scala_typeclassopedia/blob/master/ComputationalTrinitarianism.MD), [https://steshaw.org/plt/](https://github.com/steshaw/plt/pulls?q=author%3Alemastero), [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography/issues?q=author%3Alemastero)
 
 **Talks**:
 * Why functional programming and category theory strongly matters, 2019, [slides](https://www.slideshare.net/PiotrParadziski/why-functional-programming-and-category-theory-strongly-matters) 
