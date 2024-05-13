@@ -35,7 +35,6 @@
   * [zio-dotty-quickstart.g8](https://github.com/ScalaConsultants/zio-dotty-quickstart.g8/pulls?q=author%3Alemastero), [zio-akka-quickstart.g8](https://github.com/ScalaConsultants/zio-akka-quickstart.g8/pulls?q=author%3Alemastero),
   * [zio-sql](https://github.com/zio/zio-sql/pulls?q=author%3Alemastero), [zio-prelude](https://github.com/zio/zio-prelude/pulls?q=author%3Alemastero), [zio-json](https://github.com/zio/zio-json/pulls?q=author%3Alemastero), [zio/interop-cats](https://github.com/zio/interop-cats/pulls?q=author%3Alemastero), [zio-gcp](https://github.com/zio/zio-gcp/pulls?q=author%3Alemastero), [zio-config](https://github.com/zio/zio-config/pulls?q=author%3Alemastero)
   * Homotopy Type Theory in Agda - [ProvingGround](https://github.com/siddhartha-gadgil/ProvingGround/pulls?q=author%3Alemastero)
-* Scala type level/deriving libraries: utilities based on magnolia: [Lada](https://github.com/lemastero/Lada)
 * Idris [Idris-Trifunctors](https://github.com/lemastero/Idris-Trifunctors), [Idris-Applied-Category-Theory](https://github.com/lemastero/Idris-Applied-Category-Theory)
 * Purescript: [purescript-supermonad](https://github.com/lemastero/purescript-supermonad)
 * Racket/Scheme: [rackcheck](https://github.com/Bogdanp/rackcheck/pulls?q=author%3Alemastero), [akeep/rough-draft](https://github.com/akeep/rough-draft)
